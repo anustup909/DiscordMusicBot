@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Version" />
   <img src="https://img.shields.io/badge/discord.py-v2.0%2B-blueviolet?style=for-the-badge&logo=discord&logoColor=white" alt="discord.py Version" />
   <img src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge&logo=git&logoColor=white" alt="Proprietary License" />
-  <a href="https://instagram.com/anustup909" target="_blank">
+  <a href="https://instagram.com/rivu.2026" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Contact-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Contact" />
   </a>
 </p>
@@ -23,7 +23,7 @@ A premium, private Discord Music Bot built with Python using `discord.py` and `y
 > - **No Redistribution**: You may not distribute, clone, or publish forks of this repository.
 > - **Authorized Access Only**: This code is licensed strictly for personal, private execution by the owner of this repository.
 
-For inquiries, permissions, or questions, please contact me directly via **[Instagram](https://instagram.com/anustup909)**.
+For inquiries, permissions, or questions, please contact me directly via **[Instagram](https://instagram.com/rivu.2026)**.
 
 ---
 
@@ -103,5 +103,5 @@ The bot operates entirely via Slash Commands:
 ## ✉️ Contact & Support
 
 If you have questions or want to get in touch, reach out to me on:
-- **Instagram**: [@anustup909](https://instagram.com/anustup909) *(Note: If this username differs from your Instagram handle, update this link in the README!)*
+- **Instagram**: [@rivu.2026](https://instagram.com/rivu.2026)
 - **GitHub**: [anustup909](https://github.com/anustup909)
